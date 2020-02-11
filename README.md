@@ -1,2 +1,52 @@
-# big_data_lab_2
-Big Data Lab 2 Project
+# Big Data Lab 2 Project
+
+1.
+Datenset definieren, mind 50MB
+
+2.
+Grobe Systemarchitektur abstimmen/festlegen
+Systembild
+Datenfluss
+=> Präsentationsdokument
+
+2.1
+Welche Techniken/Tools passen?
+ETL?
+HDFS?
+Hive?
+Spark RDD?
+Spark DF?
+Spark SQL?
+Zeppelin?
+
+3.
+Prototyp erstellen (MVP 1)
+Erstellen in Tools auf VM
+
+3.1
+HDFS und einem Spark verwenden 
+
+3.2
+Welche weitere Tools können implementiert werden von 2.1 die passen?
+
+4.
+Anpassen und finalisieren
+
+5.
+Bewertung
+Schwierigkeiten aufzeigen
+Ergebnisse aufzeigen
+Verständlich machen
+
+6.
+Abgabe
+4 .zip Files
+Management Summary
+Lauffähigkeit Projekt
+Verschiedene Techniken
+
+
+
+
+
+
