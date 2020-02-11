@@ -2,7 +2,7 @@
 
 1. Start
 Datenset definieren, mind 50MB
-Higgs Data vom CERN: https://www.kaggle.com/c/higgs-boson/data
+Higgs Data vom CERN: https://data.sfgov.org/Economy-and-Community/Map-of-Registered-Businesses-San-Francisco/9tqe-vdng
 
 2. Systemarchitektur
 Grobe Systemarchitektur abstimmen/festlegen
