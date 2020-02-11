@@ -2,6 +2,7 @@
 
 1. Start
 Datenset definieren, mind 50MB
+Higgs Data vom CERN: https://www.kaggle.com/c/higgs-boson/data
 
 2. Systemarchitektur
 Grobe Systemarchitektur abstimmen/festlegen
