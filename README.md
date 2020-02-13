@@ -2,7 +2,7 @@
 
 1. Start
 Datenset definieren, mind 50MB
-Higgs Data vom CERN: https://data.sfgov.org/Economy-and-Community/Map-of-Registered-Businesses-San-Francisco/9tqe-vdng
+Bier Beurteilungen von data.world: https://data.world/socialmediadata/beeradvocate/
 
 2. Systemarchitektur
 Grobe Systemarchitektur abstimmen/festlegen
